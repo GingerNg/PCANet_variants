@@ -21,5 +21,5 @@ Step2: Binary and Hashing, extract the feature of local gray-level histogram.
 Part 3 SPM and SVM(libsvm-3.18).
 
 //2015/11/17
-WuJinjie
-E-mail: Jinjie_Wu@shu.edu.cn 
+GingerNg
+jinjie603809@163.com
